@@ -1,0 +1,98 @@
+.logo {
+    margin-left: -1rem;
+    line-height: 40px;
+}
+
+.logo a {
+    font-size: 2rem;
+}
+
+ul li {
+    font-size: 1rem;
+}
+
+.section1 {
+    width: 100%;
+    height: 800px;
+}
+
+.con {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.myphoto {
+    width: 60%;
+    margin-top: 2rem;
+}
+
+.head ul li a {
+    line-height: 5px;
+}
+
+.alan {
+    height: 300px;
+}
+
+.project1 img,
+.project2 img,
+.project3 img,
+.project4 img {
+    height: 76%;
+}
+
+.project1,
+.project2,
+.project3,
+.project4 {
+    width: 22%;
+    height: 400px;
+}
+
+.projects {
+    width: 100%;
+}
+
+.project1 {
+    height: 400px;
+}
+
+.allprojects {
+    height: 500px;
+}
+
+.conn {
+    width: 100%;
+    height: 40%;
+}
+
+.img1,
+.img2,
+.img3,
+.img4 {
+    width: 22%;
+}
+
+.label-all span img {
+    display: none;
+}
+
+.contact {
+    width: 100%;
+}
+
+.name_surname,
+.email_web {
+    width: 100%;
+}
+
+.contact .form {
+    padding: 1rem;
+    margin-left: 2.5rem;
+}
+
+#submit {
+    width: 15%;
+}
